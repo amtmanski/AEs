@@ -6,4 +6,4 @@ The file consist of two models - one made with convolutional layers and the othe
 Linear:
 ![Linear AE results](imgs/Linear_AE.png)
 Conv:
-![Conv AE results](img/Conv_AE.png)
+![Conv AE results](imgs/Conv_AE.png)
