@@ -7,3 +7,6 @@ Linear:
 ![Linear AE results](imgs/Linear_AE.png)
 Conv:
 ![Conv AE results](imgs/Conv_AE.png)
+
+## Denoising_AE.piynb
+It works the same as linear but noisy inputs are compared to images without noise
